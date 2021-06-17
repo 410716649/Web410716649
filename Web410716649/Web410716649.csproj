@@ -150,6 +150,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>db410716649.edmx</DependentUpon>
     </Compile>
+    <Compile Include="Models\partials\Student.cs" />
     <Compile Include="Models\Student.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
